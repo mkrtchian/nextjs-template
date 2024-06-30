@@ -65,6 +65,9 @@
     "ts-node": "^10.9.2",
     "typescript": "^5"
   },
+  "resolutions": {
+    "string-width": "4.2.3"
+  },
   "lint-staged": {
     "src/**/*.{ts,tsx,json,md}": [
       "prettier --write",
