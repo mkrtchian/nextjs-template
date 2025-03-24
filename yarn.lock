@@ -1692,10 +1692,10 @@ cliui@^8.0.1:
     strip-ansi "^6.0.1"
     wrap-ansi "^7.0.0"
 
-cliui@^9.0.0:
-  version "9.0.0"
-  resolved "https://registry.yarnpkg.com/cliui/-/cliui-9.0.0.tgz#97949d7dd4c8d937e4e9f4df4dc83267129bb4f9"
-  integrity sha512-V6GF3Ws4irBF4YEURZ8yoCPmuN+Bqey/11qKmVMRfwN1YAHg33Mcm0Wn9DhD77/OC1UQ7JEYTZ1W5zHcvGgBTw==
+cliui@^9.0.1:
+  version "9.0.1"
+  resolved "https://registry.yarnpkg.com/cliui/-/cliui-9.0.1.tgz#6f7890f386f6f1f79953adc1f78dec46fcc2d291"
+  integrity sha512-k7ndgKhwoQveBL+/1tqGJYNz097I7WOvwbmmU2AR5+magtbjPWQTS1C5vzGkBC8Ym8UWRzfKUzUUqFLypY4Q+w==
   dependencies:
     string-width "^7.2.0"
     strip-ansi "^7.1.0"
